@@ -15,7 +15,6 @@ const qualities = {
     uncertain: { _id: "67rdca3eeb7f6fgeed471103", name: "Неуверенный", color: "dark" },
 
 }
-
 const users = [
     {
         _id: "67rdca3eeb7f6fgeed471815",
